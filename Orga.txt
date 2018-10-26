@@ -1,0 +1,46 @@
+Projet
+
+Vous devez donc réaliser un jeu parmi les types décrits ci-après. Pour chaque type de jeu, il est fourni
+à titre d’exemple, quelques screenshots. Nous vous indiquons également un niveau de difficulté. Nous
+vous recommandons de bien réfléchir au choix du type de jeu (nous serons bien entendu plus exigeants
+avec les sujets plus faciles).
+
+Pour chaque type de jeu, vous devez faire attention aux points suivants :
+
+- Règles compréhensibles et claires.
+- Menu (relancer, lancer le jeu/modifier les options, touches du jeu)
+- Jouabilité (jeu fonctionne, pas de bug).
+- Game Play (expérience du jeu intéressante, agréable).
+- Aspect visuel (finalisé, soigné, ergonomique).
+
+
+Consignes
+
+Vous devez implémenter :
+
+- Le déplacement de votre personnage sur une carte (dans les 4 directions)
+- La carte ne doit pas être limitée qu’à un seul écran
+- Votre personnage doit être animé quand il se déplace
+- Certaines cases de la carte doivent être inaccessibles (forêt, plan d’eau, etc...)
+- La carte doit comporter des objets déplaçables (rocher, coffres, etc...)
+- La carte doit comporter des objets que l’on peut ramasser (potions, gems, etc...)
+- Votre personnage possèdera un sac lui permettant de gérer un inventaire
+- La carte doit comporter des PNJ (déplacement libre et aléatoire)
+- Il doit être possible d’interagir avec les PNJ quand on se trouve à proximité (entamer un dialogue, échanger des objets)
+- Il doit être possible de faire des combats et de gagner de l’expérience. (Objet, etc....)
+
+
+
+
+
+1 - Gener / Utiliser les maps
+2 - Créer / Trouver des sprites de perso/pnj
+3 -
+
+
+
+
+https://github.com
+remy.deidier@epitech.eu
+WebLagann
+webdev-lagann@13
