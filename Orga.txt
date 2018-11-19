@@ -18,6 +18,20 @@ Consignes
 
 Vous devez implémenter :
 
+- Un système de vie (le joueur a plusieurs vies, et ne recommence pas le jeu depuis le début quand il perd une vie)
+- Un système de niveaux qui se terminent par un boss (Vous devrez le vaincre différemment à chaque fois)
+- Certains ennemis devront se déplacer selon des formations prédéfinies et d’autres non. (au moins 3 ennemis aux déplacements prédéfinis et 3 ennemis aux déplacements aléatoires)
+- Des bonus (vitesse, armes, etc…)
+- Choix du personnage (Au moins 3 personnages ayant des caractéristiques et aptitudes différentes des autres)
+- Au minimum 5 niveaux différents ou 3 niveaux si le jeu est en 3D.
+- Un système de score
+
+
+
+Consignes
+
+Vous devez implémenter :
+
 - Le déplacement de votre personnage sur une carte (dans les 4 directions)
 - La carte ne doit pas être limitée qu’à un seul écran
 - Votre personnage doit être animé quand il se déplace
@@ -36,11 +50,3 @@ Vous devez implémenter :
 1 - Gener / Utiliser les maps
 2 - Créer / Trouver des sprites de perso/pnj
 3 -
-
-
-
-
-https://github.com
-remy.deidier@epitech.eu
-WebLagann
-webdev-lagann@13
